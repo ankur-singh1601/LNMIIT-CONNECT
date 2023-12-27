@@ -18,6 +18,10 @@ since it is a free and open-source cross-platform and consists of Apache HTTP Se
 <img width="618" alt="Screenshot 2023-12-28 at 1 51 58 AM" src="https://github.com/ankur-kr-singh/LNMIIT-CONNECT/assets/103172251/df3bf696-4cd2-48be-a381-f6e91007ed4f">
 
 User Manual - [LINK ](https://github.com/ankur-kr-singh/LNMIIT-CONNECT/blob/master/Lnmiit_Connect/User%20Manual/user-manual.pdf)
+Designs :-
+  1. DFD of services - [LINK] (https://github.com/ankur-kr-singh/LNMIIT-CONNECT/blob/master/Lnmiit_Connect/Designs/Data-Flow-Diagrams.pdf)
+  2. Database Design - [LINK] (https://github.com/ankur-kr-singh/LNMIIT-CONNECT/blob/master/Lnmiit_Connect/Designs/Database-Designs.pdf)
+
 
 **Developers** :-
  - Rachit Jain , LNMIIT Y17
