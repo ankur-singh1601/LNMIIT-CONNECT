@@ -17,5 +17,9 @@ since it is a free and open-source cross-platform and consists of Apache HTTP Se
 <img width="627" alt="Screenshot 2023-12-28 at 1 51 52 AM" src="https://github.com/ankur-kr-singh/LNMIIT-CONNECT/assets/103172251/fce481a2-322f-4ee8-bb68-979c6e350436">
 <img width="618" alt="Screenshot 2023-12-28 at 1 51 58 AM" src="https://github.com/ankur-kr-singh/LNMIIT-CONNECT/assets/103172251/df3bf696-4cd2-48be-a381-f6e91007ed4f">
 
-User Manual - [click here](https://github.com/ankur-kr-singh/LNMIIT-CONNECT/blob/master/Lnmiit_Connect/User%20Manual/user-manual.pdf)
+User Manual - [LINK ](https://github.com/ankur-kr-singh/LNMIIT-CONNECT/blob/master/Lnmiit_Connect/User%20Manual/user-manual.pdf)
+
+**Developers** :-
+ - Rachit Jain , LNMIIT Y17
+ - Ankur Singh , LNMIIT Y17
 
