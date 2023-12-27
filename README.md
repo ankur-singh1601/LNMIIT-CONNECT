@@ -7,3 +7,9 @@ JavaScript frameworks are used in the Front End part. We have used XAMPP to run 
 since it is a free and open-source cross-platform and consists of Apache HTTP Server.
 
 <img width="1422" alt="home" src="https://user-images.githubusercontent.com/37254231/88322336-34757200-cd3e-11ea-81ce-6b8f870bb1df.png">
+
+<img width="651" alt="Screenshot 2023-12-28 at 1 45 48 AM" src="https://github.com/ankur-kr-singh/LNMIIT-CONNECT/assets/103172251/dce3019d-079e-4e05-ab8a-864271d15ab4">
+<img width="644" alt="Screenshot 2023-12-28 at 1 46 00 AM" src="https://github.com/ankur-kr-singh/LNMIIT-CONNECT/assets/103172251/78f2eff2-071f-4a6c-b928-4a488652d35e">
+<img width="614" alt="Screenshot 2023-12-28 at 1 46 32 AM" src="https://github.com/ankur-kr-singh/LNMIIT-CONNECT/assets/103172251/e83a0b9d-4835-46ef-b006-f1e6d0a2780e">
+<img width="633" alt="Screenshot 2023-12-28 at 1 46 56 AM" src="https://github.com/ankur-kr-singh/LNMIIT-CONNECT/assets/103172251/4fd720c0-2e89-4d3f-b533-d4f6c10e0388">
+<img width="717" alt="Screenshot 2023-12-28 at 1 47 13 AM" src="https://github.com/ankur-kr-singh/LNMIIT-CONNECT/assets/103172251/1f1e1ad1-0729-4f85-bdfd-b3f615927032">
