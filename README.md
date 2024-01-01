@@ -22,11 +22,11 @@ Key Features:-
 
 LNMIIT-CONNECT Visuals: [PHOTOS](https://github.com/ankur-kr-singh/LNMIIT-CONNECT/tree/master/Lnmiit_Connect/photos)
 
-User Manual - [LINK](https://github.com/ankur-kr-singh/LNMIIT-CONNECT/blob/master/Lnmiit_Connect/User%20Manual/user-manual.pdf)
+User Manual - [PDF](https://github.com/ankur-kr-singh/LNMIIT-CONNECT/blob/master/Lnmiit_Connect/User%20Manual/user-manual.pdf)
 
 Designs :-
-  1. DFD of services - [LINK](https://github.com/ankur-kr-singh/LNMIIT-CONNECT/blob/master/Lnmiit_Connect/Designs/Data-Flow-Diagrams.pdf)
-  2. Database Design - [LINK](https://github.com/ankur-kr-singh/LNMIIT-CONNECT/blob/master/Lnmiit_Connect/Designs/Database-Designs.pdf)
+  1. DFD of services - [PDF](https://github.com/ankur-kr-singh/LNMIIT-CONNECT/blob/master/Lnmiit_Connect/Designs/Data-Flow-Diagrams.pdf)
+  2. Database Design - [PDF](https://github.com/ankur-kr-singh/LNMIIT-CONNECT/blob/master/Lnmiit_Connect/Designs/Database-Designs.pdf)
 
 
 **Developers** :-
