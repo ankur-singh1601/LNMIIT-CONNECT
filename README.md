@@ -20,6 +20,7 @@ Key Features:-
 8. Settings : Account Settings
 9. Trends : Trending words on platform
 
+LNMIIT-CONNECT Visuals: [PHOTOS](https://github.com/ankur-kr-singh/LNMIIT-CONNECT/tree/master/Lnmiit_Connect/photos)
 
 User Manual - [LINK](https://github.com/ankur-kr-singh/LNMIIT-CONNECT/blob/master/Lnmiit_Connect/User%20Manual/user-manual.pdf)
 
